@@ -1,10 +1,10 @@
 # wibuhengker
 <h1 align="center">
-  YMBF
+  WibuHengker
 </h1>
 </div>
 <p align="center">
-  Create with ЁЯНо&тМЪ <a href="https://www.facebook.com/NFSMWID">FAJAR INDONESIA_</a>
+  Create with 🍮&⌚ <a href="https://www.facebook.com/NFSMWID">FAJAR INDONESIA</a>
 </p>
 <p align="center">
  
